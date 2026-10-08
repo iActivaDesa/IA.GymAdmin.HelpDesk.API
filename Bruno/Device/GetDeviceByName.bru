@@ -1,0 +1,23 @@
+meta {
+  name: GetDeviceByName
+  type: http
+  seq: 3
+}
+
+get {
+  url: {{baseurl}}/api/hddevice/nombre/Laptop
+  body: none
+  auth: bearer
+}
+
+auth:bearer {
+  token: {{token}}
+}
+
+headers {
+  Content-Type: application/json
+}
+
+docs {
+  Obtiene un dispositivo por nombre. Cambia Laptop por el nombre a buscar.
+}

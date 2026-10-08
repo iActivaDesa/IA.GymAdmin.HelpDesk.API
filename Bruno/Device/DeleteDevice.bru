@@ -1,0 +1,23 @@
+meta {
+  name: DeleteDevice
+  type: http
+  seq: 6
+}
+
+delete {
+  url: {{baseurl}}/api/hddevice/1
+  body: none
+  auth: bearer
+}
+
+auth:bearer {
+  token: {{token}}
+}
+
+headers {
+  Content-Type: application/json
+}
+
+docs {
+  Elimina un dispositivo por Id. Cambia el 1 por el Id a eliminar.
+}

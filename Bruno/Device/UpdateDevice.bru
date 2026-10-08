@@ -1,0 +1,32 @@
+meta {
+  name: UpdateDevice
+  type: http
+  seq: 5
+}
+
+put {
+  url: {{baseurl}}/api/hddevice
+  body: json
+  auth: bearer
+}
+
+auth:bearer {
+  token: {{token}}
+}
+
+headers {
+  Content-Type: application/json
+}
+
+body:json {
+  {
+    "id": 1,
+    "name": "Laptop Soporte 01",
+    "description": "Laptop del área de soporte - actualizada",
+    "owner": "Soporte TI"
+  }
+}
+
+docs {
+  Actualiza un dispositivo. El campo id es obligatorio.
+}

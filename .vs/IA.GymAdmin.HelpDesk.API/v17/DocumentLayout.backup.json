@@ -1,0 +1,181 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\desarrollo\\Desktop\\Proyectos IA\\IA.GymAdmin.HelpDesk.API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5A30F2E1-3C02-5A48-1EFF-2B2B61816B55}|IA.GymAdmin.HelpDesk.API.csproj|c:\\users\\desarrollo\\desktop\\proyectos ia\\ia.gymadmin.helpdesk.api\\application\\usecases\\hd_devices\\constanst\\constants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A30F2E1-3C02-5A48-1EFF-2B2B61816B55}|IA.GymAdmin.HelpDesk.API.csproj|solutionrelative:application\\usecases\\hd_devices\\constanst\\constants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A30F2E1-3C02-5A48-1EFF-2B2B61816B55}|IA.GymAdmin.HelpDesk.API.csproj|c:\\users\\desarrollo\\desktop\\proyectos ia\\ia.gymadmin.helpdesk.api\\application\\usecases\\hd_devices\\queries\\getallhd_devices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A30F2E1-3C02-5A48-1EFF-2B2B61816B55}|IA.GymAdmin.HelpDesk.API.csproj|solutionrelative:application\\usecases\\hd_devices\\queries\\getallhd_devices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A30F2E1-3C02-5A48-1EFF-2B2B61816B55}|IA.GymAdmin.HelpDesk.API.csproj|c:\\users\\desarrollo\\desktop\\proyectos ia\\ia.gymadmin.helpdesk.api\\application\\usecases\\hd_devices\\commands\\createhd_device.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A30F2E1-3C02-5A48-1EFF-2B2B61816B55}|IA.GymAdmin.HelpDesk.API.csproj|solutionrelative:application\\usecases\\hd_devices\\commands\\createhd_device.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A30F2E1-3C02-5A48-1EFF-2B2B61816B55}|IA.GymAdmin.HelpDesk.API.csproj|c:\\users\\desarrollo\\desktop\\proyectos ia\\ia.gymadmin.helpdesk.api\\application\\hd_deviceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A30F2E1-3C02-5A48-1EFF-2B2B61816B55}|IA.GymAdmin.HelpDesk.API.csproj|solutionrelative:application\\hd_deviceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A30F2E1-3C02-5A48-1EFF-2B2B61816B55}|IA.GymAdmin.HelpDesk.API.csproj|c:\\users\\desarrollo\\desktop\\proyectos ia\\ia.gymadmin.helpdesk.api\\infraestructure\\config\\dbcontext\\dbcontextconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A30F2E1-3C02-5A48-1EFF-2B2B61816B55}|IA.GymAdmin.HelpDesk.API.csproj|solutionrelative:infraestructure\\config\\dbcontext\\dbcontextconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A30F2E1-3C02-5A48-1EFF-2B2B61816B55}|IA.GymAdmin.HelpDesk.API.csproj|c:\\users\\desarrollo\\desktop\\proyectos ia\\ia.gymadmin.helpdesk.api\\domain\\dto\\hddevicelistardto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A30F2E1-3C02-5A48-1EFF-2B2B61816B55}|IA.GymAdmin.HelpDesk.API.csproj|solutionrelative:domain\\dto\\hddevicelistardto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A30F2E1-3C02-5A48-1EFF-2B2B61816B55}|IA.GymAdmin.HelpDesk.API.csproj|c:\\users\\desarrollo\\desktop\\proyectos ia\\ia.gymadmin.helpdesk.api\\controllers\\hd_device_controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A30F2E1-3C02-5A48-1EFF-2B2B61816B55}|IA.GymAdmin.HelpDesk.API.csproj|solutionrelative:controllers\\hd_device_controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A30F2E1-3C02-5A48-1EFF-2B2B61816B55}|IA.GymAdmin.HelpDesk.API.csproj|c:\\users\\desarrollo\\desktop\\proyectos ia\\ia.gymadmin.helpdesk.api\\domain\\interfaces\\ihd_device.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A30F2E1-3C02-5A48-1EFF-2B2B61816B55}|IA.GymAdmin.HelpDesk.API.csproj|solutionrelative:domain\\interfaces\\ihd_device.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A30F2E1-3C02-5A48-1EFF-2B2B61816B55}|IA.GymAdmin.HelpDesk.API.csproj|c:\\users\\desarrollo\\desktop\\proyectos ia\\ia.gymadmin.helpdesk.api\\domain\\interfaces\\iauthinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A30F2E1-3C02-5A48-1EFF-2B2B61816B55}|IA.GymAdmin.HelpDesk.API.csproj|solutionrelative:domain\\interfaces\\iauthinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 149,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "constants.cs",
+              "DocumentMoniker": "C:\\Users\\desarrollo\\Desktop\\Proyectos IA\\IA.GymAdmin.HelpDesk.API\\Application\\UseCases\\HD_Devices\\constanst\\constants.cs",
+              "RelativeDocumentMoniker": "Application\\UseCases\\HD_Devices\\constanst\\constants.cs",
+              "ToolTip": "C:\\Users\\desarrollo\\Desktop\\Proyectos IA\\IA.GymAdmin.HelpDesk.API\\Application\\UseCases\\HD_Devices\\constanst\\constants.cs",
+              "RelativeToolTip": "Application\\UseCases\\HD_Devices\\constanst\\constants.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-08T17:37:19.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GetAllHD_Devices.cs",
+              "DocumentMoniker": "C:\\Users\\desarrollo\\Desktop\\Proyectos IA\\IA.GymAdmin.HelpDesk.API\\Application\\UseCases\\HD_Devices\\queries\\GetAllHD_Devices.cs",
+              "RelativeDocumentMoniker": "Application\\UseCases\\HD_Devices\\queries\\GetAllHD_Devices.cs",
+              "ToolTip": "C:\\Users\\desarrollo\\Desktop\\Proyectos IA\\IA.GymAdmin.HelpDesk.API\\Application\\UseCases\\HD_Devices\\queries\\GetAllHD_Devices.cs",
+              "RelativeToolTip": "Application\\UseCases\\HD_Devices\\queries\\GetAllHD_Devices.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-08T14:59:50.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DBContextConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\desarrollo\\Desktop\\Proyectos IA\\IA.GymAdmin.HelpDesk.API\\Infraestructure\\Config\\DBContext\\DBContextConfiguration.cs",
+              "RelativeDocumentMoniker": "Infraestructure\\Config\\DBContext\\DBContextConfiguration.cs",
+              "ToolTip": "C:\\Users\\desarrollo\\Desktop\\Proyectos IA\\IA.GymAdmin.HelpDesk.API\\Infraestructure\\Config\\DBContext\\DBContextConfiguration.cs",
+              "RelativeToolTip": "Infraestructure\\Config\\DBContext\\DBContextConfiguration.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAowBEAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-08T15:05:41.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IAuthInterface.cs",
+              "DocumentMoniker": "C:\\Users\\desarrollo\\Desktop\\Proyectos IA\\IA.GymAdmin.HelpDesk.API\\Domain\\Interfaces\\IAuthInterface.cs",
+              "RelativeDocumentMoniker": "Domain\\Interfaces\\IAuthInterface.cs",
+              "ToolTip": "C:\\Users\\desarrollo\\Desktop\\Proyectos IA\\IA.GymAdmin.HelpDesk.API\\Domain\\Interfaces\\IAuthInterface.cs",
+              "RelativeToolTip": "Domain\\Interfaces\\IAuthInterface.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-08T15:04:19.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HD_DeviceService.cs",
+              "DocumentMoniker": "C:\\Users\\desarrollo\\Desktop\\Proyectos IA\\IA.GymAdmin.HelpDesk.API\\Application\\HD_DeviceService.cs",
+              "RelativeDocumentMoniker": "Application\\HD_DeviceService.cs",
+              "ToolTip": "C:\\Users\\desarrollo\\Desktop\\Proyectos IA\\IA.GymAdmin.HelpDesk.API\\Application\\HD_DeviceService.cs",
+              "RelativeToolTip": "Application\\HD_DeviceService.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAgwC4AAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-08T14:03:28.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CreateHD_Device.cs",
+              "DocumentMoniker": "C:\\Users\\desarrollo\\Desktop\\Proyectos IA\\IA.GymAdmin.HelpDesk.API\\Application\\UseCases\\HD_Devices\\commands\\CreateHD_Device.cs",
+              "RelativeDocumentMoniker": "Application\\UseCases\\HD_Devices\\commands\\CreateHD_Device.cs",
+              "ToolTip": "C:\\Users\\desarrollo\\Desktop\\Proyectos IA\\IA.GymAdmin.HelpDesk.API\\Application\\UseCases\\HD_Devices\\commands\\CreateHD_Device.cs",
+              "RelativeToolTip": "Application\\UseCases\\HD_Devices\\commands\\CreateHD_Device.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwCIAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-08T14:38:30.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HDDeviceListarDTO.cs",
+              "DocumentMoniker": "C:\\Users\\desarrollo\\Desktop\\Proyectos IA\\IA.GymAdmin.HelpDesk.API\\Domain\\DTO\\HDDeviceListarDTO.cs",
+              "RelativeDocumentMoniker": "Domain\\DTO\\HDDeviceListarDTO.cs",
+              "ToolTip": "C:\\Users\\desarrollo\\Desktop\\Proyectos IA\\IA.GymAdmin.HelpDesk.API\\Domain\\DTO\\HDDeviceListarDTO.cs",
+              "RelativeToolTip": "Domain\\DTO\\HDDeviceListarDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-08T15:02:52.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HD_Device_Controller.cs",
+              "DocumentMoniker": "C:\\Users\\desarrollo\\Desktop\\Proyectos IA\\IA.GymAdmin.HelpDesk.API\\Controllers\\HD_Device_Controller.cs",
+              "RelativeDocumentMoniker": "Controllers\\HD_Device_Controller.cs",
+              "ToolTip": "C:\\Users\\desarrollo\\Desktop\\Proyectos IA\\IA.GymAdmin.HelpDesk.API\\Controllers\\HD_Device_Controller.cs",
+              "RelativeToolTip": "Controllers\\HD_Device_Controller.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAowCIAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-08T15:04:30.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IHD_Device.cs",
+              "DocumentMoniker": "C:\\Users\\desarrollo\\Desktop\\Proyectos IA\\IA.GymAdmin.HelpDesk.API\\Domain\\Interfaces\\IHD_Device.cs",
+              "RelativeDocumentMoniker": "Domain\\Interfaces\\IHD_Device.cs",
+              "ToolTip": "C:\\Users\\desarrollo\\Desktop\\Proyectos IA\\IA.GymAdmin.HelpDesk.API\\Domain\\Interfaces\\IHD_Device.cs",
+              "RelativeToolTip": "Domain\\Interfaces\\IHD_Device.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-08T14:40:15.997Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

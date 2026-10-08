@@ -1,0 +1,32 @@
+meta {
+  name: CreateDevice
+  type: http
+  seq: 4
+}
+
+post {
+  url: {{baseurl}}/api/hddevice
+  body: json
+  auth: bearer
+}
+
+headers {
+  Content-Type: application/json
+}
+
+auth:bearer {
+  token: {{token}}
+}
+
+body:json {
+  {
+    "Id": 1,
+    "name": "Laptop Soporte 01",
+    "description": "Laptop del área de soporte",
+    "owner": "Soporte TI"
+  }
+}
+
+docs {
+  Crea un dispositivo. Responde 201 con el recurso creado.
+}

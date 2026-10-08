@@ -1,0 +1,23 @@
+meta {
+  name: GetDeviceById
+  type: http
+  seq: 2
+}
+
+get {
+  url: {{baseurl}}/api/hddevice/1
+  body: none
+  auth: bearer
+}
+
+auth:bearer {
+  token: {{token}}
+}
+
+headers {
+  Content-Type: application/json
+}
+
+docs {
+  Obtiene un dispositivo por Id. Cambia el 1 por el Id deseado.
+}

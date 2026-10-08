@@ -1,0 +1,23 @@
+meta {
+  name: GetAllDevices
+  type: http
+  seq: 1
+}
+
+get {
+  url: {{baseurl}}/api/hddevice/AllDevices
+  body: none
+  auth: bearer
+}
+
+headers {
+  Content-Type: application/json
+}
+
+auth:bearer {
+  token: {{token}}
+}
+
+docs {
+  Lista todos los dispositivos. Requiere JWT (ejecuta Auth/Login primero).
+}

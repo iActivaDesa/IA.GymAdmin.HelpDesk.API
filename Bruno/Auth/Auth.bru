@@ -1,0 +1,32 @@
+meta {
+  name: Auth
+  type: http
+  seq: 1
+}
+
+post {
+  url: {{baseurl}}/api/Auth/login
+  body: json
+  auth: inherit
+}
+
+body:json {
+  {
+    "Username": "iActiva",
+    "Password": "admin"
+  }
+}
+
+script:post-response {
+  var r = res.getBody();
+  if (r.data) {
+    bru.setVar("accessToken", r.data);
+    bru.setEnvVar("accessToken", r.data);
+  }
+}
+
+settings {
+  encodeUrl: true
+  timeout: 0
+  forwardAuthorizationHeader: false
+}
